@@ -1,2 +1,2 @@
-# Distributed-Systems
-This is the MIT6.824 Lab.
+# MapReduce
+This is the implementation of MapReduce.(6.824 Lab1)
