@@ -5,4 +5,14 @@ Since the code is not allowed to be put on public GitHub, I will upload a summar
 
 The passed test images are as follows:
 
-![image](https://github.com/HanLi05869/Distributed-Systems/tree/RAFT/img/2A.png)
+2A:
+
+![image](https://github.com/HanLi05869/Distributed-Systems/blob/RAFT/img/2A.png)
+
+2B:
+
+![image](https://github.com/HanLi05869/Distributed-Systems/blob/RAFT/img/2B.png)
+
+2C:
+
+![image](https://github.com/HanLi05869/Distributed-Systems/blob/RAFT/img/2C.png)
