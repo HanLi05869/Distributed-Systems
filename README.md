@@ -1,6 +1,8 @@
 # Distributed-Systems
-This is the MIT6.824 Lab.
+In this branch, I implemented raft.go. 
 
-You can switch to different branches to view corresponding content. 
+Since the code is not allowed to be put on public GitHub, I will upload a summary later to highlight the relevant key code parts. 
 
-Currently, only MapReduce has been implemented, and other branches will be followed up in the future.
+The passed test images are as follows:
+
+![image](https://github.com/HanLi05869/Distributed-Systems/tree/RAFT/img/2A.png)
